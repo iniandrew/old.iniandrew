@@ -6,13 +6,206 @@
         <description>Recent content on Chrisdion Andrew</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 10 Mar 2021 21:53:58 +0700</lastBuildDate><atom:link href="https://iniandrew.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 15 Mar 2021 22:04:40 +0700</lastBuildDate><atom:link href="https://iniandrew.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Jenis Jenis Matriks</title>
+        <link>https://iniandrew.github.io/p/jenis-jenis-matriks/</link>
+        <pubDate>Mon, 15 Mar 2021 22:04:40 +0700</pubDate>
+        
+        <guid>https://iniandrew.github.io/p/jenis-jenis-matriks/</guid>
+        <description>&lt;img src="https://iniandrew.github.io/p/jenis-jenis-matriks/cover.jpg" alt="Featured image of post Jenis Jenis Matriks" /&gt;&lt;h2 id=&#34;matriks&#34;&gt;Matriks&lt;/h2&gt;
+&lt;p&gt;Matriks adalah sususan bilangan dalam bentuk baris dan kolom sehingga membentuk suatu bangun persegi.&lt;/p&gt;
+&lt;h3 id=&#34;matriks-dan-jenisnya&#34;&gt;Matriks dan Jenisnya&lt;/h3&gt;
+&lt;p&gt;Matriks A berikutt berukuran (Ordo) &lt;em&gt;m x n&lt;/em&gt; :
+&lt;figure style=&#34;flex-grow: 222; flex-basis: 534px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-mxn.jpg&#34; data-size=&#34;383x172&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-mxn.jpg&#34;
+				srcset=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-mxn_hue4b94407d1f546611cfdd257c3de88db_12337_480x0_resize_q75_box.jpg 480w, https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-mxn_hue4b94407d1f546611cfdd257c3de88db_12337_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;383&#34;
+				height=&#34;172&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Matriks A ordo m x n&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Matriks A ordo m x n&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: Misalkan A dan B adalah matriks berukuran sama.&lt;!-- raw HTML omitted --&gt;
+A dan B dikatakan sama (notasi A = B) jika :
+&lt;em&gt;Aij = Bij, untuk setiap i dan j&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;jenis---jenis-matriks&#34;&gt;Jenis - jenis Matriks&lt;/h3&gt;
+&lt;h4 id=&#34;1-matriks-bujur-sangkar-persegi&#34;&gt;1. Matriks Bujur Sangkar (Persegi)&lt;/h4&gt;
+&lt;p&gt;Matriks yang &lt;strong&gt;jumlah baris dan jumlah kolomnya adalah sama&lt;/strong&gt; (&lt;em&gt;n x n&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Contoh:
+&lt;figure style=&#34;flex-grow: 385; flex-basis: 925px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-persegi.jpg&#34; data-size=&#34;517x134&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-persegi.jpg&#34;
+				srcset=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-persegi_hu32b5b7674aade742f05b30b5a6861866_12829_480x0_resize_q75_box.jpg 480w, https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-persegi_hu32b5b7674aade742f05b30b5a6861866_12829_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;517&#34;
+				height=&#34;134&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Matriks Persegi&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Matriks Persegi&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;h4 id=&#34;2-matriks-diagonal&#34;&gt;2. Matriks Diagonal&lt;/h4&gt;
+&lt;p&gt;Suatu matriks persegi dimana setiap unsur yang bukan merupakan unsur diagonal adalah nol.&lt;/p&gt;
+&lt;p&gt;Contoh:
+&lt;figure style=&#34;flex-grow: 330; flex-basis: 792px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-diagonal.jpg&#34; data-size=&#34;462x140&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-diagonal.jpg&#34;
+				srcset=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-diagonal_hu4c786b0856c74036d32fdffd37d4fa15_13183_480x0_resize_q75_box.jpg 480w, https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-diagonal_hu4c786b0856c74036d32fdffd37d4fa15_13183_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;462&#34;
+				height=&#34;140&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Matriks Diagonal&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Matriks Diagonal&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 243; flex-basis: 584px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/unsur-diagonal.jpg&#34; data-size=&#34;460x189&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/unsur-diagonal.jpg&#34;
+				srcset=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/unsur-diagonal_hu8597c57f76ce210576e882ed409dfa15_11253_480x0_resize_q75_box.jpg 480w, https://iniandrew.github.io/p/jenis-jenis-matriks/unsur-diagonal_hu8597c57f76ce210576e882ed409dfa15_11253_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;460&#34;
+				height=&#34;189&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Unsur Diagonal&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Unsur Diagonal&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;3-matriks-segitiga-atas&#34;&gt;3. Matriks Segitiga Atas&lt;/h4&gt;
+&lt;p&gt;Suatu matriks yang &lt;strong&gt;semua unsur dibawah&lt;/strong&gt; &lt;em&gt;unsur diagonal&lt;/em&gt; pada kolom yang bersesuaian bernilai &lt;strong&gt;nol&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Contoh:
+&lt;figure style=&#34;flex-grow: 331; flex-basis: 794px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-segitiga-atas.jpg&#34; data-size=&#34;437x132&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-segitiga-atas.jpg&#34;
+				srcset=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-segitiga-atas_huf0e39a9d511440efb24bc0543d2d7bec_12552_480x0_resize_q75_box.jpg 480w, https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-segitiga-atas_huf0e39a9d511440efb24bc0543d2d7bec_12552_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;437&#34;
+				height=&#34;132&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Matriks Segitiga Atas&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Matriks Segitiga Atas&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;h4 id=&#34;4-matriks-segitiga-bawah&#34;&gt;4. Matriks Segitiga Bawah&lt;/h4&gt;
+&lt;p&gt;Suatu matriks yang &lt;strong&gt;semua unsur diatas&lt;/strong&gt; &lt;em&gt;unsur diagonal&lt;/em&gt; pada kolom yang bersesuaian bernilai &lt;strong&gt;nol&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Contoh
+&lt;figure style=&#34;flex-grow: 308; flex-basis: 740px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-segitiga-bawah.jpg&#34; data-size=&#34;444x144&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-segitiga-bawah.jpg&#34;
+				srcset=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-segitiga-bawah_hu565870e9d136c926c31af20777f4fcae_12928_480x0_resize_q75_box.jpg 480w, https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-segitiga-bawah_hu565870e9d136c926c31af20777f4fcae_12928_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;444&#34;
+				height=&#34;144&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Matriks Segitiga Bawah&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Matriks Segitiga Bawah&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;h4 id=&#34;5-matriks-satuan-identitas&#34;&gt;5. Matriks Satuan (Identitas)&lt;/h4&gt;
+&lt;p&gt;Suatu matriks dimana &lt;strong&gt;setiap unsur diagonalnya adalah satu&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Contoh:
+&lt;figure style=&#34;flex-grow: 180; flex-basis: 433px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-satuan.jpg&#34; data-size=&#34;258x143&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-satuan.jpg&#34;
+				srcset=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-satuan_huddce1afa4a6ad9ef232fbede33fbe8e5_5968_480x0_resize_q75_box.jpg 480w, https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-satuan_huddce1afa4a6ad9ef232fbede33fbe8e5_5968_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;258&#34;
+				height=&#34;143&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Matriks Satuan&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Matriks Satuan&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;h4 id=&#34;6-matriks-simetri&#34;&gt;6. Matriks Simetri&lt;/h4&gt;
+&lt;p&gt;Suatu matriks persegi disebut matriks simetri &lt;strong&gt;jika &lt;em&gt;transpose&lt;/em&gt; dari matriks tersebut adalah &lt;em&gt;dirinya sendiri&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Contoh:
+&lt;figure style=&#34;flex-grow: 353; flex-basis: 847px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-simetri.jpg&#34; data-size=&#34;431x122&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-simetri.jpg&#34;
+				srcset=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-simetri_hu736db084c2404f193c74811008b425b2_12738_480x0_resize_q75_box.jpg 480w, https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-simetri_hu736db084c2404f193c74811008b425b2_12738_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;431&#34;
+				height=&#34;122&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Matriks Simetri&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Matriks Simetri&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Matriks transpos diperoleh dengan &lt;strong&gt;menukar baris matriks menjadi
+kolom seletak, atau sebaliknya&lt;/strong&gt;. Notasi Aᵗ (hasil transpos matriks A).
+&lt;figure style=&#34;flex-grow: 327; flex-basis: 785px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/transpose-matriks.jpg&#34; data-size=&#34;504x154&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/transpose-matriks.jpg&#34;
+				srcset=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/transpose-matriks_hu3d1310e3d04ebd7bfccfb6841b3c962f_8837_480x0_resize_q75_box.jpg 480w, https://iniandrew.github.io/p/jenis-jenis-matriks/transpose-matriks_hu3d1310e3d04ebd7bfccfb6841b3c962f_8837_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;504&#34;
+				height=&#34;154&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Transpose Matriks&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Transpose Matriks&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;7-matriks-bentuk-eselon-baris&#34;&gt;7. Matriks Bentuk Eselon Baris&lt;/h4&gt;
+&lt;p&gt;Suatu matriks disebut matriks bentuk eselon baris jika memenuhi kriteria-kriteria berikut:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Entri tak nol pertama pada setiap baris adalah 1, yang selanjutnya disebut leading one.&lt;/li&gt;
+&lt;li&gt;Setiap baris yang memuat leading one, entri 1 terletak disebelah kanan leading one baris sebelumnya.&lt;/li&gt;
+&lt;li&gt;Baris yang semua entrinya nol (jika ada), terletak di bawah baris yang memuat leading one.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Contoh:
+&lt;figure style=&#34;flex-grow: 546; flex-basis: 1312px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-eselon-baris.jpg&#34; data-size=&#34;667x122&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-eselon-baris.jpg&#34;
+				srcset=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-eselon-baris_hu2330b46e1e56bd42cf09b130cde4fbe9_17640_480x0_resize_q75_box.jpg 480w, https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-eselon-baris_hu2330b46e1e56bd42cf09b130cde4fbe9_17640_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;667&#34;
+				height=&#34;122&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Matriks Eselon Baris&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Matriks Eselon Baris&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;h4 id=&#34;8-matriks-bentuk-eselon-baris-tereduksi&#34;&gt;8. Matriks Bentuk Eselon Baris Tereduksi&lt;/h4&gt;
+&lt;p&gt;Suatu matriks disebut matriks bentuk eselon baris jika memenuhi kriteria-kriteria berikut:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Entri tak nol pertama pada setiap baris adalah 1, yang selanjutnya disebut leading one.&lt;/li&gt;
+&lt;li&gt;Setiap baris yang memuat leading one, entri 1 terletak disebelah kanan leading one baris sebelumnya.&lt;/li&gt;
+&lt;li&gt;Baris yang semua entrinya nol (jika ada), terletak di bawah baris yang memuat leading one.&lt;/li&gt;
+&lt;li&gt;Setiap kolom yang memuat leading one, entri-entri selain leading one adalah nol.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Contoh:
+&lt;figure style=&#34;flex-grow: 503; flex-basis: 1208px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-eselon-baris-tereduksi.jpg&#34; data-size=&#34;690x137&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-eselon-baris-tereduksi.jpg&#34;
+				srcset=&#34;https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-eselon-baris-tereduksi_hubd9b4c540a0f9b885b82e0ee6e19a8fb_19581_480x0_resize_q75_box.jpg 480w, https://iniandrew.github.io/p/jenis-jenis-matriks/matriks-eselon-baris-tereduksi_hubd9b4c540a0f9b885b82e0ee6e19a8fb_19581_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;690&#34;
+				height=&#34;137&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Matriks Eselon Baris Tereduksi&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Matriks Eselon Baris Tereduksi&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Referensi: &lt;a href=&#34;https://aljabarlinear.mipa.ugm.ac.id/matriks/matriks-matriks-khusus/&#34;&gt;https://aljabarlinear.mipa.ugm.ac.id/matriks/matriks-matriks-khusus/&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Sejarah Bahasa Indonesia</title>
         <link>https://iniandrew.github.io/p/sejarah-bahasa-indonesia/</link>
         <pubDate>Wed, 10 Mar 2021 21:53:58 +0700</pubDate>
         
         <guid>https://iniandrew.github.io/p/sejarah-bahasa-indonesia/</guid>
-        <description>&lt;ol&gt;
+        <description>&lt;img src="https://iniandrew.github.io/p/sejarah-bahasa-indonesia/cover.jpg" alt="Featured image of post Sejarah Bahasa Indonesia" /&gt;&lt;ol&gt;
 &lt;li&gt;Bahasa Indonesia ternyata tidak hanya digunakan oleh orang Indonesia saja. Ada banyak negara di dunia yang menjunjung tinggi bahasa Indonesia. Negara manakah itu?&lt;/li&gt;
 &lt;li&gt;Mengapa bahasa di dunia ini bisa banyak sekali? Bagaimanakah bahasa bisa terbentuk?&lt;/li&gt;
 &lt;li&gt;Dari manakah asal-usul nama Indonesia? Siapakah yang memberikan nama Indonesia pertama kali?&lt;/li&gt;
