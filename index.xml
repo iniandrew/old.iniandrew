@@ -6,7 +6,303 @@
         <description>Recent content on Chrisdion Andrew</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 15 Mar 2021 22:04:40 +0700</lastBuildDate><atom:link href="https://iniandrew.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 16 Mar 2021 08:30:48 +0700</lastBuildDate><atom:link href="https://iniandrew.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Teori Probabilitas - Sampel</title>
+        <link>https://iniandrew.github.io/p/teori-probabilitas-sampel/</link>
+        <pubDate>Tue, 16 Mar 2021 08:30:48 +0700</pubDate>
+        
+        <guid>https://iniandrew.github.io/p/teori-probabilitas-sampel/</guid>
+        <description>&lt;img src="https://iniandrew.github.io/p/teori-probabilitas-sampel/cover.jpg" alt="Featured image of post Teori Probabilitas - Sampel" /&gt;&lt;h2 id=&#34;sampel-dan-populasi&#34;&gt;Sampel dan Populasi&lt;/h2&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 234; flex-basis: 561px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/populasi-sampel.jpg&#34; data-size=&#34;522x223&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/populasi-sampel.jpg&#34;
+				srcset=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/populasi-sampel_hu9871f2e146cf05ed63ab938a2f795cc4_22418_480x0_resize_q75_box.jpg 480w, https://iniandrew.github.io/p/teori-probabilitas-sampel/populasi-sampel_hu9871f2e146cf05ed63ab938a2f795cc4_22418_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;522&#34;
+				height=&#34;223&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Ilustrasi Populasi dan Sampel&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Ilustrasi Populasi dan Sampel&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;h4 id=&#34;populasi&#34;&gt;Populasi&lt;/h4&gt;
+&lt;p&gt;Populasi adalah jumlah keseluruhan dari satuan-satuan atau individu-individu yang karakteristiknya hendak diteliti. Dan satuan-satuan tersebut dinamakan &lt;strong&gt;unit analisis&lt;/strong&gt;, dan &lt;em&gt;dapat berupa orang-orang, institusi-institusi, benda-benda&lt;/em&gt;, dst. (Djarwanto, 1994: 420).&lt;/p&gt;
+&lt;h4 id=&#34;sampel&#34;&gt;Sampel&lt;/h4&gt;
+&lt;p&gt;Berdasarkan pakar atau ahli, &amp;ldquo;sampel adalah sebagian dari populasi yang karakteristiknya hendak diteliti&amp;rdquo; (Djarwanto, 1994:43). Sampel yang baik, yang kesimpulannya dapat dikenakan pada populasi, adalah sampel yang bersifat representatif atau yang dapat menggambarkan karakteristik populasi. Sampel bisa disebut juga sebagai &lt;strong&gt;contoh&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;ringkasan-sampel-dan-populasi&#34;&gt;Ringkasan Sampel dan Populasi&lt;/h4&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 125; flex-basis: 300px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/illustrasi-populasi-sampel.png&#34; data-size=&#34;300x240&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/illustrasi-populasi-sampel.png&#34;
+				srcset=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/illustrasi-populasi-sampel_hu5ffd6926ef8510212fae21269080d2df_78157_480x0_resize_box_2.png 480w, https://iniandrew.github.io/p/teori-probabilitas-sampel/illustrasi-populasi-sampel_hu5ffd6926ef8510212fae21269080d2df_78157_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;300&#34;
+				height=&#34;240&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Ilustrasi Populasi dan Sampel&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Ilustrasi Populasi dan Sampel&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Berdasarkan gambar ilustrasi populasi dan sampel diatas, maka dapat kita simpulkan bahwa &lt;strong&gt;populasi itu seperti sebuah organisme&lt;/strong&gt;, sedangkan &lt;strong&gt;sampel adalah organ&lt;/strong&gt;. &lt;em&gt;Jadi, sampel adalah bagian yang tidak terpisahkan dari populasi&lt;/em&gt;. Dan sampel dalam hal ini haruslah dapat mewakili karakteristik dari keseluruhan populasi.&lt;/p&gt;
+&lt;h4 id=&#34;kriteria-sampel&#34;&gt;Kriteria Sampel&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Kriteria Inklusi
+Kriteria inklusi adalah karakteristik umum subjek penelitian dari suatu populasi target yang terjangkau yang akan diteliti (Nursalam, 2003: 96).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kriteria Ekslusi
+Kriteria eksklusi adalah menghilangkan atau mengeluarkan subjek yang memenuhi kriteria inklusi dari penelitian karena sebab-sebab tertentu (Nursalam, 2003: 97).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Sebab-sebab yang dipertimbangkan dalam menentukan kriteria ekslusi antara lain:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Subjek membatalkan kesediannya untuk menjadi responden penelitian, dan&lt;/li&gt;
+&lt;li&gt;Subjek berhalangan hadir atau tidak di tempat ketika pengumpulan data dilakukan.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Penentuan kriteria sampel diperlukan untuk mengurangi hasil penelitian yang bias.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;teknik-pengambilan-sampel&#34;&gt;Teknik Pengambilan Sampel&lt;/h4&gt;
+&lt;p&gt;Teknik pengambilan sampel atau teknik sampling adalah teknik pengambilan sampel dari populasi. Sampel yang merupakan sebagaian dari populasi tsb. kemudian diteliti dan hasil penelitian (kesimpulan) kemudian dikenakan pada populasi (generalisasi).&lt;/p&gt;
+&lt;h4 id=&#34;manfaat-pengambilan-sampel-sampling&#34;&gt;Manfaat Pengambilan Sampel (Sampling)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Menghemat biaya penelitian.&lt;/li&gt;
+&lt;li&gt;Menghemat waktu untuk penelitian.&lt;/li&gt;
+&lt;li&gt;Dapat menghasilkan data yang lebih akurat.&lt;/li&gt;
+&lt;li&gt;Memperluas ruang lingkup penlitian.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sampling harus dilakukan dengan benar agar didapatkan hasil yang representatif.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;jenis-pengambilan-sampel-sampling&#34;&gt;Jenis Pengambilan Sampel (Sampling)&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Teknik Sampling Secara Probabilitas (&lt;em&gt;Probability Sampling&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Teknik Sampling Secara Non-Probabilitas (&lt;em&gt;Non-Probability Sampling&lt;/em&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;1-teknik-sampling-secara-probabilitas-probability-sampling&#34;&gt;1. Teknik Sampling Secara Probabilitas (&lt;em&gt;Probability Sampling&lt;/em&gt;)&lt;/h4&gt;
+&lt;p&gt;Seleksi sampel dimana anggota populasi diambil dengan prosedur bahwa setiap elemen mempunyai kesempatan yang sama untuk dipilih menjadi anggota sampel (random - acak)&lt;/p&gt;
+&lt;p&gt;Teknik sampling semacam ini dapat dilakukan dengan cara-cara sebagai berikut.&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 183; flex-basis: 439px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/probability-sampling.jpg&#34; data-size=&#34;1079x589&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/probability-sampling.jpg&#34;
+				srcset=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/probability-sampling_hu29a3349e35fd553baaa4483a259f626d_65794_480x0_resize_q75_box.jpg 480w, https://iniandrew.github.io/p/teori-probabilitas-sampel/probability-sampling_hu29a3349e35fd553baaa4483a259f626d_65794_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;1079&#34;
+				height=&#34;589&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Probability Sampling&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Probability Sampling&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;h4 id=&#34;a-simple-random-sampling&#34;&gt;A. &lt;em&gt;Simple Random Sampling&lt;/em&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Setiap unit memiliki probabilitas yang sama untuk terpilih&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Sampling Frame&lt;/em&gt; (berisi semua unit di populasi) diambil satu secara &lt;em&gt;random&lt;/em&gt; lalu di ulang hingga terpenuhi jumlah sampelnya.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 175; flex-basis: 421px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/simple-random-sampling.png&#34; data-size=&#34;701x399&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/simple-random-sampling.png&#34;
+				srcset=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/simple-random-sampling_hu03b7ef888fc811f458528ee9e03a5311_99045_480x0_resize_box_2.png 480w, https://iniandrew.github.io/p/teori-probabilitas-sampel/simple-random-sampling_hu03b7ef888fc811f458528ee9e03a5311_99045_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;701&#34;
+				height=&#34;399&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Ilustrasi Simple Random Sampling&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Ilustrasi Simple Random Sampling&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 173; flex-basis: 415px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/rumus-slovin.png&#34; data-size=&#34;369x213&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/rumus-slovin.png&#34;
+				srcset=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/rumus-slovin_hu326ab59f70c2b848374e9d40a9e543c4_53492_480x0_resize_box_2.png 480w, https://iniandrew.github.io/p/teori-probabilitas-sampel/rumus-slovin_hu326ab59f70c2b848374e9d40a9e543c4_53492_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;369&#34;
+				height=&#34;213&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Rumus Slovin&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Rumus Slovin&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;h4 id=&#34;b-stratified-random-sampling&#34;&gt;B. &lt;em&gt;Stratified Random Sampling&lt;/em&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ketika populasi tidak homogen.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Sampling Frame&lt;/em&gt; (berisi semua unit di populasi) dilakukan kategorisasi (stratifikasi) setiap member pada populasi, lalu diambil satu secara &lt;em&gt;random&lt;/em&gt; di setiap strata dan diulang hingga terpehuni jumlah sampelnya.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 220; flex-basis: 528px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/stratified-random-sampling.png&#34; data-size=&#34;889x404&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/stratified-random-sampling.png&#34;
+				srcset=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/stratified-random-sampling_hua34eb2a574a76d00c44e6771949e9b8d_104571_480x0_resize_box_2.png 480w, https://iniandrew.github.io/p/teori-probabilitas-sampel/stratified-random-sampling_hua34eb2a574a76d00c44e6771949e9b8d_104571_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;889&#34;
+				height=&#34;404&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Ilustrasi Stratified Random Sampling&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Ilustrasi Stratified Random Sampling&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 205; flex-basis: 493px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/rumus-stratified-random-sampling.png&#34; data-size=&#34;294x143&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/rumus-stratified-random-sampling.png&#34;
+				srcset=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/rumus-stratified-random-sampling_hu5db890c2746a7716f06e0f4984d6edc6_7341_480x0_resize_box_2.png 480w, https://iniandrew.github.io/p/teori-probabilitas-sampel/rumus-stratified-random-sampling_hu5db890c2746a7716f06e0f4984d6edc6_7341_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;294&#34;
+				height=&#34;143&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Rumus Pengambilan Sampel&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Rumus Pengambilan Sampel&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;h4 id=&#34;c-cluster-random-sampling&#34;&gt;C. &lt;em&gt;Cluster Random Sampling&lt;/em&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ketika populasi sudah terbagi dalam beberapa kelompok. Antar kelompok homogen dan dalam satu kelompok heterogen&lt;/li&gt;
+&lt;li&gt;Populasi Cluster dipilih cluster secara random
+&lt;figure style=&#34;flex-grow: 281; flex-basis: 676px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/cluster-random-sampling.png&#34; data-size=&#34;1226x435&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/cluster-random-sampling.png&#34;
+				srcset=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/cluster-random-sampling_hu36f4671c381ee4b4277b34cfc2e7510e_311543_480x0_resize_box_2.png 480w, https://iniandrew.github.io/p/teori-probabilitas-sampel/cluster-random-sampling_hu36f4671c381ee4b4277b34cfc2e7510e_311543_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;1226&#34;
+				height=&#34;435&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Ilustrasi Cluster Random Sampling&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Ilustrasi Cluster Random Sampling&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 205; flex-basis: 492px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/stratified-sampling-vs-cluster-sampling.png&#34; data-size=&#34;850x414&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/stratified-sampling-vs-cluster-sampling.png&#34;
+				srcset=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/stratified-sampling-vs-cluster-sampling_hu945ca14b7bcd170bf1c15a0c76c24aa4_465671_480x0_resize_box_2.png 480w, https://iniandrew.github.io/p/teori-probabilitas-sampel/stratified-sampling-vs-cluster-sampling_hu945ca14b7bcd170bf1c15a0c76c24aa4_465671_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;850&#34;
+				height=&#34;414&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Perbedaan Stratified vs Cluster Sampling&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Perbedaan Stratified vs Cluster Sampling&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;d-systematic-random-sampling&#34;&gt;D. &lt;em&gt;Systematic Random Sampling&lt;/em&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Sampel yang dipilih dengan cara memilih secara random titik awal dan memilih secara sistematik ke-&lt;em&gt;k&lt;/em&gt; dari sampling frame.&lt;/li&gt;
+&lt;li&gt;Populasi dipilih 1 sampel pertama secara random, lalu diambil sampel dengan kelipatan &lt;em&gt;k&lt;/em&gt; unit selanjutnya.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 195; flex-basis: 468px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/systematic-random-sampling.png&#34; data-size=&#34;683x350&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/systematic-random-sampling.png&#34;
+				srcset=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/systematic-random-sampling_hu8a4be062c3f6bcd23ed2f46c5932cc4b_109331_480x0_resize_box_2.png 480w, https://iniandrew.github.io/p/teori-probabilitas-sampel/systematic-random-sampling_hu8a4be062c3f6bcd23ed2f46c5932cc4b_109331_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;683&#34;
+				height=&#34;350&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Ilustrasi Systematic Random Sampling&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Ilustrasi Systematic Random Sampling&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 176; flex-basis: 423px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/rumus-systematic-random-sampling.png&#34; data-size=&#34;242x137&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/rumus-systematic-random-sampling.png&#34;
+				srcset=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/rumus-systematic-random-sampling_hu53508805fa4cef3258938b5fd4c6aeaa_2910_480x0_resize_box_2.png 480w, https://iniandrew.github.io/p/teori-probabilitas-sampel/rumus-systematic-random-sampling_hu53508805fa4cef3258938b5fd4c6aeaa_2910_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;242&#34;
+				height=&#34;137&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Rumus&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Rumus&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;h4 id=&#34;1-teknik-sampling-secara-non-probabilitas-non-probability-sampling&#34;&gt;1. Teknik Sampling Secara Non-Probabilitas (&lt;em&gt;Non-Probability Sampling&lt;/em&gt;)&lt;/h4&gt;
+&lt;p&gt;Teknik sampling nonprobabilitas adalah teknik pengambilan sample dari populasi yang ditemukan atau ditentukan sendiri oleh peneliti dan/atau menurut pertimbangan pakar.&lt;/p&gt;
+&lt;p&gt;Dan beberapa jenis atau cara penarikan sampel dari populasi secara nonprobabilitas adalah sebagai berikut:&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 273; flex-basis: 655px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/non-probability-sampling.png&#34; data-size=&#34;1003x367&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/non-probability-sampling.png&#34;
+				srcset=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/non-probability-sampling_hu8a985715f2290b8f89c652abda7b8051_42397_480x0_resize_box_2.png 480w, https://iniandrew.github.io/p/teori-probabilitas-sampel/non-probability-sampling_hu8a985715f2290b8f89c652abda7b8051_42397_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;1003&#34;
+				height=&#34;367&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Non Probability Sampling&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Non Probability Sampling&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;h4 id=&#34;a-quota-sampling&#34;&gt;A. &lt;em&gt;Quota Sampling&lt;/em&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Sampling kuota adalah teknik untuk menentukan sampel dari &lt;em&gt;populasi yang mempunyai ciri-ciri tertentu&lt;/em&gt; sampai jumlah (kuota) yang diinginkan.&lt;/li&gt;
+&lt;li&gt;Teknik ini &lt;em&gt;jumlah populasi tidak diperhitungkan akan tetapi diklasifikasikan dalam beberapa kelompok.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Sampel diambil dengan memberikan jatah atau quorum tertentu terhadap kelompok.&lt;/li&gt;
+&lt;li&gt;Pengumpulan data &lt;em&gt;dilakukan langsung pada unit sampling&lt;/em&gt;. Setelah jatah terpenuhi, maka pengumpulan data dihentikan.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;b-accidental-sampling&#34;&gt;B. &lt;em&gt;Accidental Sampling&lt;/em&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Metode ini juga disebut &lt;strong&gt;Convenience Sampling&lt;/strong&gt;, yaitu teknik pengambilan sampel yang diambil secara &lt;em&gt;accidental&lt;/em&gt; (Kebetulan)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 176; flex-basis: 423px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/accidental-sampling.png&#34; data-size=&#34;422x239&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/accidental-sampling.png&#34;
+				srcset=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/accidental-sampling_huc2a210fb63909c72c430947ecd885f35_90860_480x0_resize_box_2.png 480w, https://iniandrew.github.io/p/teori-probabilitas-sampel/accidental-sampling_huc2a210fb63909c72c430947ecd885f35_90860_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;422&#34;
+				height=&#34;239&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Ilustrasi Accidental Sampling&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Ilustrasi Accidental Sampling&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Sebagai contoh ketika kita bertemu seseorang di kampus atau di jalan dan seseorang tersebut memenuhi kualifikasi dan cocok dijadikan responden. Maka seseorang tersebut akan menjadi sampel dan selanjutnya dilakukan wawancara kepada untuk mendapatkan data&lt;/p&gt;
+&lt;h4 id=&#34;c-purposive-sampling&#34;&gt;C. &lt;em&gt;Purposive Sampling&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;Disebut juga &lt;strong&gt;judgmental sampling&lt;/strong&gt;, yaitu teknik sampling yang satuan &lt;em&gt;samplingnya dipilih berdasarkan pertimbangan tertentu&lt;/em&gt; dengan tujuan untuk memperoleh satuan sampling yang memiliki karakteristik atau kriteria yang dikehendaki dalam pengambilan sampel.&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 167; flex-basis: 400px&#34;&gt;
+		&lt;a href=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/purposive-sampling.png&#34; data-size=&#34;548x328&#34;&gt;&lt;img src=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/purposive-sampling.png&#34;
+				srcset=&#34;https://iniandrew.github.io/p/teori-probabilitas-sampel/purposive-sampling_hufc5f78cf12d29be60e23ccebbcf90ce0_115431_480x0_resize_box_2.png 480w, https://iniandrew.github.io/p/teori-probabilitas-sampel/purposive-sampling_hufc5f78cf12d29be60e23ccebbcf90ce0_115431_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;548&#34;
+				height=&#34;328&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Ilustrasi Purposive Sampling&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Ilustrasi Purposive Sampling&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;h4 id=&#34;d-snowball-sampling&#34;&gt;D. &lt;em&gt;Snowball Sampling&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;Snowball sampling adalah teknik pengambilan sampel yang awal mula jumlahnya kecil, kemudian sampel ini disuruh memilih teman-temannya untuk dijadikan sampel. Dan begitu seterusnya, sehingga jumlah sampel makin lama makin banyak.&lt;/p&gt;
+&lt;p&gt;Ibaratkan sebuah bola salju yang menggelinding, makin lama semakin besar.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note: Pada penelitian kualitatif banyak menggunakan sampel purposive dan snowball.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;kesimpulan&#34;&gt;Kesimpulan&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Probability Sampling&lt;/th&gt;
+&lt;th&gt;Non-Probability Sampling&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;- Gambaran Populasi Akurat&lt;/td&gt;
+&lt;td&gt;- Gambaran Populasi kasar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;- Dimaksudkan untuk generalisasi&lt;/td&gt;
+&lt;td&gt;- Tidak dimaksudkan untuk generalisasi&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;- Sampel Representatif&lt;/td&gt;
+&lt;td&gt;- Sampel tidak representatif&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;- Menggunakan konsep peluang&lt;/td&gt;
+&lt;td&gt;- Tanpa menggunakan konsep peluang&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;Referensi: &lt;a href=&#34;https://www.statistikian.com/2012/10/pengertian-populasi-dan-sampel.html&#34;&gt;https://www.statistikian.com/2012/10/pengertian-populasi-dan-sampel.html&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Jenis Jenis Matriks</title>
         <link>https://iniandrew.github.io/p/jenis-jenis-matriks/</link>
         <pubDate>Mon, 15 Mar 2021 22:04:40 +0700</pubDate>
