@@ -6,7 +6,65 @@
         <description>Recent content on Chrisdion Andrew</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 25 Mar 2021 22:17:56 +0700</lastBuildDate><atom:link href="https://iniandrew.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 02 Apr 2021 21:18:03 +0700</lastBuildDate><atom:link href="https://iniandrew.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Sistem Enterprise - Implementasi ERP pada Rolls Royce&#39;s - Summary</title>
+        <link>https://iniandrew.github.io/p/sistem-enterprise-implementasi-erp-pada-rolls-royces-summary/</link>
+        <pubDate>Fri, 02 Apr 2021 21:18:03 +0700</pubDate>
+        
+        <guid>https://iniandrew.github.io/p/sistem-enterprise-implementasi-erp-pada-rolls-royces-summary/</guid>
+        <description>&lt;img src="https://iniandrew.github.io/p/sistem-enterprise-implementasi-erp-pada-rolls-royces-summary/cover.png" alt="Featured image of post Sistem Enterprise - Implementasi ERP pada Rolls Royce&#39;s - Summary" /&gt;&lt;p&gt;Rolls Royce (RR) adalah perusahaan global dengan beberapa divisi di lebih dari 14 Negara, yang mana itu beroperasi di empat pasar global: dirgantara sipil, dirgantara pertahanan, kelautan, dan energy.&lt;/p&gt;
+&lt;p&gt;Kebutuhan akan sistem perencanaan sumber daya perusahaan (ERP) dicatat selama akhir 1990-an di RR untuk menangani volume data yang diproduksi dan diproses dari akuisisi baru dan pertumbuhan keseluruhan yang dialami oleh perusahaan.&lt;/p&gt;
+&lt;p&gt;Pada tahun 1996:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rolls Royce mengalihkan 90 persen dari fungsi TI-nya ke kontraktor yang disebut Electronic Data Services (EDS), yang mana EDS bertanggung jawab untuk mengawasi struktur TI yang ada serta menyediakan solusi TI yang memadai untuk kemakmuran perusahaan di masa depan.&lt;/li&gt;
+&lt;li&gt;Rolls Royce menggunakan lebih dari 1.500 sistem lawas (mainframe) yang tidak akurat, mahal untuk dioperasikan, dan sulit dirawat.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pada tahun 2001, RR memutuskan bahwa SAP / R3, sebuah platform ERP yang terdiri dari 12 modul fungsional, akan diimplementasikan di divisi kedirgantaraannya. Namun, ada banyak tantangan yang harus diatasi RR agar implementasi berhasil. Untuk mengatasi tantangan tersebut RR harus memiliki tim TI yang sangat baik dengan strategi implementasi yang layak.&lt;/p&gt;
+&lt;p&gt;Proyek ERP terdiri dari tim manajemen spesialis dari EDS yang kemudian mempekerjakan konsultan SAP untuk memberikan bantuan teknis khusus dalam penerapannya. Di dalam tim proyek terdapat ahli materi pelajaran (UKM) dan staf yang memiliki pengetahuan penting tentang hubungan bisnis lintas fungsi dan pengalaman sistem lama. Dalam hubungannya dengan tim ini terdapat unit bisnis operasional (OBU), masing-masing dengan tim manajemen perubahan ERP-nya sendiri, yang merupakan bertanggung jawab untuk melaksanakan perubahan kerja dan pelatihan.&lt;/p&gt;
+&lt;p&gt;Tim ERP di RR dapat diklasifikasikan ke dalam tiga kategori:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Budaya&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Tantangan tim budaya adalah untuk mengatasi masalah yang berasal dari apakah SAP akan diterima oleh pengguna di seluruh perusahaan dan akan menyediakan fungsionalitas yang sama seperti sistem warisan sebelumnya.
+Tim budaya memutuskan untuk mengilustrasikan manfaat bagi perusahaan secara keseluruhan untuk mengatasi kekhawatiran. Mereka melakukannya dengan melatih individu di seluruh RR.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Bisnis&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Tim bisnis harus mengatasi masalah yang bersumber dari fakta bahwa SAP membutuhkan struktur proses bisnis yang kaku sehingga memerlukan &lt;em&gt;Vanilla Implementation&lt;/em&gt;. Ini berarti bahwa praktik kerja di RR harus diubah untuk memenuhi tuntutan fungsional SAP. Tim bisnis menggunakan proses pemetaan dari prosedur saat ini dan memetakannya kembali untuk menunjukkan bagaimana mereka harus diubah secara organisatoris untuk memenuhi permintaan SAP.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Teknis&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Tim teknis harus mengatasi masalah terutama untuk menghindari kemungkinan data yang tidak akurat. Tantangan utama mereka adalah membersihkan data selama migrasi. Menyediakan cukup banyak orang untuk tugas-tugas ini sangat sulit. Ini karena laporan yang dihasilkan dari SAP harus tepat. Hal ini dilakukan dengan memvalidasi data sebelum memasukkannya ke dalam gudang data SAP. Sistem memerlukan beberapa &amp;ldquo;operasi&amp;rdquo; mingguan melalui server UNIX, yang menjembatani data dari sistem lama. Peluncuran sistem adalah tantangan teknis lainnya.&lt;/p&gt;
+&lt;p&gt;ERP dirancang dalam tiga fase, di mana tahap ketiga sebenarnya adalah &lt;strong&gt;&amp;ldquo;implementasi&amp;rdquo;&lt;/strong&gt;.
+Implementasinya dilakukan dalam dua gelombang.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gelombang pertama difokuskan pada penggantian sistem lama.&lt;/li&gt;
+&lt;li&gt;Gelombang kedua dilakukan untuk mengimplementasikan elemen sisa seperti logistik dan sumber daya manusia yang tidak dikonversi sampai gelombang pertama benar-benar berhasil.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tim implementasi di RR, termasuk personel EDS dan konsultan SAP, mengidentifikasi masalah yang terkait dengan penerapan SAP sebagai ERP untuk perusahaan sebelum mereka dapat berkembang menjadi masalah yang akan menghambat dan mungkin menyebabkan implementasi gagal. Oleh karena itu, strategi implementasi yang baik memungkinkan upaya tersebut. Kasus ini tentunya menjadi bukti positif bahwa memiliki tim implementasi ERP yang solid dan berpengetahuan luas yang dapat mengantisipasi masalah selama implementasi, sekaligus mengedepankan strategi yang kokoh, adalah kunci suksesnya. RR terus melihat ke masa depan untuk mengadopsi teknologi, metodologi, dan proses baru untuk membawa mereka ke level berikutnya.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Question:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Apa pendapat Anda tentang proyek implementasi ERP pada RR? Apakah mereka memilih strategi implementasi yang tepat?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Proyek implementasi ERP pada RR sangat bagus, dengan mengimplementasikan ERP, permasalahan RR sebelumnya yang mana menggunakan lebih dari 1.500 sistem lawas (mainframe) yang tidak akurat, mahal untuk dioperasikan, dan sulit dirawat sudah teratasi. Srategi implementasi ERP yang dipilih oleh Rolls Royce juga sudah tepat dan sangat bagus, dan ini membuat perusahaan Rolls Royce menjadi lebih fleksibel dan cepat mengatasi permasalahan yang terjadi sebelumnya.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Diskusikan faktor penentu keberhasilan dari strategi implementasi RR dan perannya UKM dalam proyek tersebut.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Faktor penentu keberhasilan strategi implementasi RR tersebut adalah memilih tim TI yang sangat baik dengan strategi implementasi yang layak dan memilih konsultan SAP untuk memberikan bantuan teknis khusus dalam penerapannya. Peranan UKM pada proyek tersebut adalah memiliki pengetahuan penting tentang hubungan bisnis lintas fungsi dan pengalaman sistem lama.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Saran apa yang dapat Anda berikan kepada tim teknis RR tentang pendekatan mereka dalam memigrasi sistem lama dengan perangkat lunak SAP?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Saran saya kepada tim teknis RR dalam memigrasi sistem lama ke perangkat lunak SAP adalah dengan membuat &lt;em&gt;TODO LIST&lt;/em&gt; pada setiap anggota atau tim, sehingga setiap proses yang dilalui menjadi lebih teratur dan terjadwal. Komunikasi yang ada pada tim teknik juga harus ditingkatkan agar kolaborasi dalam tim berjalan dengan baik dan lancar.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
         <title>Sistem Enterprise Task - Quiz about ERP</title>
         <link>https://iniandrew.github.io/p/sistem-enterprise-task-quiz-about-erp/</link>
         <pubDate>Thu, 25 Mar 2021 22:17:56 +0700</pubDate>
